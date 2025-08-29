@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh currently in my 1st year in b-tech
+- 👋 Hi, I’m Varun currently in my 1st year in b-tech
 - ⚡ TLDR: College freshman aiming to identify areas for improvement and grow skills.
 - 🌱 Currently learning the MERN stack
 - ✌🏽 I've covered HTML, CSS, JavaScript, Python 
